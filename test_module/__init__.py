@@ -1,4 +1,8 @@
 import math
+import random
+from random import randint
+
+
 
 class Shape():
     def __init__(self):
