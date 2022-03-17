@@ -7,6 +7,10 @@ class TomSvilans():
     def function(self):
         return 1 + 1
 
+    def start(self):
+        print ("start it up")
+        return
+
 if __name__=="__main__":
     print("hello")
     pass
