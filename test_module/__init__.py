@@ -8,5 +8,8 @@ class Shape():
     def change_color(self, color):
         self.color = color
 
+    def move(self, x, y, z):
+        return
+
 if __name__=="__main__":
     pass
