@@ -6,7 +6,7 @@ class testOSCClass():
         self.msgContents = "'/test/me', None, ['text', 672, 8.871]"
         
         def function(self):
-            osc_send(self.msgContents, self.cilentName)
+            return 1 + 1
         
         if __name__=="__main__":
             print("hello")
