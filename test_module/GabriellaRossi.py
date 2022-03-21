@@ -1,4 +1,4 @@
-class gr():
+class GabriellaRossi():
     def __init__(self):
         age = 28
     
